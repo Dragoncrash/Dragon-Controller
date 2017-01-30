@@ -1,0 +1,16 @@
+# Start by Ignoring All Files
+*
+!*/
+
+# Add This File
+!.gitignore
+
+# Add Project Main Folders
+# Form: !/PROJECT_NAME/**
+!/DragonCrashProject/**
+
+# Add Project Code Folders
+# Form: !/Code/PROJECT_NAME/**
+!/Code/DragonCrashProject/**
+
+# Add Custom Gems
